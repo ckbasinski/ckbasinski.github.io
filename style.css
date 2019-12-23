@@ -20,8 +20,6 @@ body{
 
 #pic{
   float:right;
-  width:25%;
-  min-height:300px;
   box-sizing:border-box;
 }
 
