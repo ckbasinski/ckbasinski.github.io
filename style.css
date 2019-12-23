@@ -9,6 +9,13 @@ body{
 .top{
   background-color:#FCBD09;
   border:1px solid #FFF;
+  position:relative;
+}
+
+.top #pic{
+  position:absolute;
+  top:50px;
+  right:50px;
 }
 
 #info{
