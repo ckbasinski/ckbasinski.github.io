@@ -14,12 +14,15 @@ p{
 h1{
   letter-spacing:0.2em;
   color: black;
-  
+    text-transform:uppercase;
+}
+
 
 h3{
   text-align:center;
   letter-spacing:0.1em;
   font-style:bold;
   font-style:italic;
+  text-transform:uppercase;
 }
 
