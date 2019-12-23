@@ -1,7 +1,7 @@
 body{
 
   background-color:#357286;
-  
+  overflow:hidden;
   border:20px #65BCD8 solid;
 }
 
@@ -14,14 +14,28 @@ body{
   float:left;
   width:70%;
   text-align:center;
+  box-sizing:border-box;
+  padding:10px;
 }
 
 #pic{
   float:right;
   width:30%;
-    padding-right:20px;
+  box-sizing:border-box;
+  padding:10px;
 }
 
+@media(max-width:800px){
+  #info{
+    width:100%;
+    float:none;
+  }
+  
+  #pic{
+    width:100%;
+    float:none;
+  }
+}
 p{
   margin-left:200px;
   margin-right:200px;
