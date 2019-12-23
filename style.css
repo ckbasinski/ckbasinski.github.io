@@ -12,11 +12,16 @@ body{
   overflow:hidden;
   }
 
+.banner{
+  width:90%;
+  margin:auto;
+  overflow:hidden;
+  background: #F3B584;
+
 #pic{
   float:right;
   width:30%;
   min-height:300px;
-  background: #F3B584;
   padding:10px;
   box-sizing:border-box;
 }
@@ -27,7 +32,6 @@ body{
   text-align:center;
   box-sizing:border-box;
   padding-top:100px;
-  background: #F3B584;
 }
 
 
