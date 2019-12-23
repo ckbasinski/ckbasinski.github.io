@@ -11,9 +11,15 @@ p{
   text-align:center;
 }
 
+h1{
+  letter-spacing:0.2em;
+  color: black;
+  
+
 h3{
   text-align:center;
   letter-spacing:0.1em;
   font-style:bold;
   font-style:italic;
 }
+
