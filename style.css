@@ -6,12 +6,14 @@ background-color:#0C86AD;
 }
 
 p{
-  width:75%;
+  margin-left:20px;
+  margin-right:20px;
   text-align:center;
 }
 
 h3{
   text-align:center;
   letter-spacing:0.1em;
-  font-style:bold;italic;
+  font-style:bold;
+  font-style:italic;
 }
