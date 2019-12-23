@@ -6,35 +6,32 @@ body{
   border:20px #65BCD8 solid;
 }
 
-.top{
-  background-color:#FCBD09;
-  border:1px solid #FFF;
-  position:relative;
-  
-}
-
-.top #pic{
-  position:absolute;
-  top:50px;
-  right:50px;
-  box-sizing:border-box;
-}
-
-#info{
-  float:left;
-  width:70%;
-  text-align:center;
-  box-sizing:border-box;
-}
+.container{
+  width:90%;
+  margin:auto;
+  overflow:hidden;
+  }
 
 #pic{
   float:right;
   width:30%;
+  min-height:300px;
+  background: #F3B584;
+  padding:10px;
   box-sizing:border-box;
 }
 
-@media(min-width:768px){
-  #info{
+#intro{
+  float:left;
+  width:70%;
+  text-align:center;
+  box-sizing:border-box;
+  padding:20 0px;
+}
+
+
+@media(max-width:600px){
+  #intro{
     width:100%;
     float:none;
   }
@@ -52,6 +49,7 @@ p{
   margin-left:200px;
   margin-right:200px;
   text-align:center;
+  text-size:14px;
 }
 
 h1{
