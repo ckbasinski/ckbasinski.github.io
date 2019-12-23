@@ -7,20 +7,21 @@ body{
 }
 
 .top{
-  margin:auto;
   background-color:#FCBD09;
-  box-sizing:border-box;
+  border:1px solid #FFF;
 }
 
 #info{
   float:left;
   width:70%;
   text-align:center;
+  box-sizing:border-box;
 }
 
 #pic{
   float:right;
   width:30%;
+  box-sizing:border-box;
 }
 
 @media(min-width:768px){
