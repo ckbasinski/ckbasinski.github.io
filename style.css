@@ -10,7 +10,7 @@ body{
   margin:auto;
   background-color:#FCBD09;
   box-sizing:border-box;
-  border-bottom:1px;
+  margin-bottom: 100px;
 }
 
 #info{
