@@ -17,13 +17,11 @@ body{
   float:left;
   width:70%;
   text-align:center;
-  padding:10px;
 }
 
 #pic{
   float:right;
   width:30%;
-  padding:10px;
 }
 
 @media(min-width:768px){
