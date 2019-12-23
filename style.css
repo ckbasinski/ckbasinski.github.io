@@ -5,6 +5,23 @@ body{
   border:20px #65BCD8 solid;
 }
 
+.top{
+  margin:auto;
+  background-color:#FCBD09;
+}
+
+#info{
+  float:left;
+  width:70%;
+  text-align:center;
+}
+
+#pic{
+  float:right;
+  width:30%;
+    padding-right:20px;
+}
+
 p{
   margin-left:200px;
   margin-right:200px;
