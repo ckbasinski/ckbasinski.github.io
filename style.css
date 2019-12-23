@@ -8,20 +8,20 @@ body{
 .top{
   margin:auto;
   background-color:#FCBD09;
+  box-sizing:border-box;
+  border-bottom:1px;
 }
 
 #info{
   float:left;
   width:70%;
   text-align:center;
-  box-sizing:border-box;
   padding:10px;
 }
 
 #pic{
   float:right;
   width:30%;
-  box-sizing:border-box;
   padding:10px;
 }
 
