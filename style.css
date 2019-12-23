@@ -9,7 +9,7 @@ body{
 .container{
   width:90%;
   margin:auto;
-  overflow:visible;
+  overflow:scroll;
   }
 
 #pic{
@@ -26,7 +26,8 @@ body{
   width:70%;
   text-align:center;
   box-sizing:border-box;
-  padding:20 0px;
+  padding-top:200px;
+  background: #F3B584;
 }
 
 
