@@ -10,6 +10,7 @@ body{
   background-color:#FCBD09;
   border:1px solid #FFF;
   position:relative;
+  
 }
 
 .top #pic{
@@ -32,7 +33,17 @@ body{
   box-sizing:border-box;
 }
 
-
+@media(min-width:768px){
+  #info{
+    width:100%;
+    float:none;
+  }
+  
+  #pic{
+    width:100%;
+    float:none;
+  }
+}
 
 .clr{
   clear:both;
