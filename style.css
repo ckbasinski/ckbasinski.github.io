@@ -9,7 +9,7 @@ body{
 .container{
   width:90%;
   margin:auto;
-  overflow:hidden;
+  overflow:visible;
   }
 
 #pic{
