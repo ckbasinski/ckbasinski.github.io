@@ -30,7 +30,11 @@ a:hover{
   color:red;
 }
 
-a:{
+a{
   text-decoration: bold;
   color:purple;
+}
+
+a:visited{
+  color:grey;
 }
